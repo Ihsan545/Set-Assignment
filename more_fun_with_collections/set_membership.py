@@ -5,7 +5,7 @@ Date:   10/14/2020
 This program is an example of function accept a set and return a boolean.
  """
 
-
+d = {1, 1, 2, 3, 4}  # defining a set.
 
 
 def in_set(my_set):
